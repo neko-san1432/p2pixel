@@ -1,0 +1,1 @@
+electron/sync/FileManager.ts(8,20): error TS2503: Cannot find namespace 'chokidar'.

@@ -1,0 +1,8 @@
+node_modules/
+dist/
+release/
+electron/dist/
+*.log
+.DS_Store
+server/*.jar
+/release
